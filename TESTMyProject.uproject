@@ -8,11 +8,6 @@
 			"Name": "BCIUE4Plugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9bd76756ccf244fb844f0c2f982f32ab"
-		},
-		{
-			"Name": "DataTrackerPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/44935228baad48ee9fd9179c9a32623b"
 		}
 	]
 }
