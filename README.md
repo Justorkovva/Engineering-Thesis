@@ -1,5 +1,6 @@
 # Engineering-Thesis
 This project combines VR and EEG in UE4 relaxing module.
+The scene changes in real time as user relaxation value changes.
 
 I used Neurosky MindWave Mobile for EEG data and Oculus Rift (it worked on HTC Vive as well).
 
