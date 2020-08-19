@@ -8,6 +8,7 @@ visualization of the chosen emotional state in virtual reality
 ## Technologies:
 
 * UE4
+* Blueprints
 * EEG
 * OpenVibe
 
