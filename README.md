@@ -31,6 +31,6 @@ Assets from this project can be found for free on Epic Games Marketplace. Search
 
 ## Setup
 
-I used Neurosky MindWave Mobile and OpenVibe for EEG data and Oculus Rift (it worked on HTC Vive as well).
+I used Neurosky MindWave Mobile and OpenVibe for EEG data and Oculus Rift (it worked on HTC Vive as well). <br  >
 Project should work as relaxing module without the BCI plugin, but you won't be able to check your EEG data without it. <br  >
 Have a nice day! :)
