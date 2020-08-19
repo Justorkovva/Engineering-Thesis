@@ -27,7 +27,7 @@ You can download it [here](https://www.unrealengine.com/marketplace/braincompute
 Assets from this project can be found for free on Epic Games Marketplace. Search for:
 * ParticleEffects
 * Water Planes
-* Blueprint
+* Blueprints (Butterfly asset)
 
 ## Setup
 
